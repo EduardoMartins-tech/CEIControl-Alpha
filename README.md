@@ -10,7 +10,20 @@ O projeto é uma iniciativa da empresa JEM Tech, voltada para o desenvolvimento 
 | :--- | :--- |
 | Eduardo Ferreira Martins | Faculdade de Tecnologia de Ferraz de Vasconcelos (FATEC) |
 | João Vitor Martins Silva | Curso Superior de Análise e Desenvolvimento de Sistemas |
-
+---
+## 🎯 Objetivos do Projeto
+ 
+### Objetivo Geral
+Desenvolver um sistema web para a gestão de Centros de Educação Infantil (CEIs) públicos, visando centralizar processos administrativos e melhorar a comunicação entre a instituição e os responsáveis por meio de uma plataforma gratuita e acessível.
+ 
+### Objetivos Específicos
+Para a viabilização e sucesso do **CEIControl**, foram definidos os seguintes passos:
+ 
+- **Centralização de Dados:** Implementar módulos para o cadastro e gerenciamento de usuários, fornecedores, produtos e serviços em uma única interface.
+- **Comunicação Escolar:** Criar uma agenda digital e ferramentas de interação direta entre a coordenação do CEI e os pais ou responsáveis.
+- **Segurança e Controle:** Desenvolver um sistema de autenticação com diferentes perfis de acesso (admin, cliente e usuário), garantindo a integridade das operações CRUD.
+- **Tecnologias Modernas:** Construir o protótipo utilizando a stack PHP, MySQL, HTML e CSS, assegurando a viabilidade técnica e performance.
+- **Inclusão Digital:** Oferecer uma solução tecnológica que amplie a digitalização escolar sem custos adicionais para as instituições públicas.
 ---
 
 ## 🌟 Funcionalidades Principais
