@@ -14,7 +14,7 @@ O projeto é uma iniciativa da empresa JEM Tech, voltada para o desenvolvimento 
 ## 🎯 Objetivos do Projeto
  
 ### Objetivo Geral
-Desenvolver um sistema web para a gestão de Centros de Educação Infantil (CEIs) públicos, visando centralizar processos administrativos e melhorar a comunicação entre a instituição e os responsáveis por meio de uma plataforma gratuita e acessível.
+Desenvolver uma plataforma gratuita e completa de gestão para CEIs públicas, reunindo em um só sistema ferramentas como comunicação com pais e fornecedores, controle de agendas e organização administrativa, com o objetivo de modernizar e simplificar a gestão dessas instituições, com mais eficiência e transparência no setor da educação infantil pública.
  
 ### Objetivos Específicos
 Para a viabilização e sucesso do **CEIControl**, foram definidos os seguintes passos:
