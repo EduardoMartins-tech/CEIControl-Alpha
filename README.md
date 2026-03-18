@@ -1,87 +1,93 @@
-# 🚀 CEIControl - Sistema de Gestão para Centros de Educação Infantil Públicos
+# 🚀 CEIControl
 
-![Capa do Projeto](https://placehold.co/800x200/2E8B57/FFFFFF?text=CEIControl+-+Sistema+Web+para+CEIs)
+<p align="center">
+  <img src="JEMTech logo.png" width="160"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="CeiControl logo.png" width="160"/>
+</p>
 
-O **CEIControl** é uma plataforma web desenvolvida para simplificar e modernizar a gestão de Centros de Educação Infantil (CEIs) públicos. Nosso objetivo é centralizar em um único sistema o cadastro de usuários, gestão de recursos, agenda digital e o canal de comunicação direta entre a coordenação e os responsáveis pelos alunos.
+<p align="center">
+  <b>Sistema de Gestão para Centros de Educação Infantil Públicos</b>
+</p>
 
-O projeto é uma iniciativa da empresa JEM Tech, voltada para o desenvolvimento de soluções digitais de gestão para o setor público.
-
-| Autores | Faculdade |
-| :--- | :--- |
-| Eduardo Ferreira Martins | Faculdade de Tecnologia de Ferraz de Vasconcelos (FATEC) |
-| João Vitor Martins Silva | Curso Superior de Análise e Desenvolvimento de Sistemas |
----
-## 🎯 Objetivos do Projeto
- 
-### Objetivo Geral
-Desenvolver uma plataforma gratuita e completa de gestão para CEIs públicas, reunindo em um só sistema ferramentas como comunicação com pais e fornecedores, controle de agendas e organização administrativa, com o objetivo de modernizar e simplificar a gestão dessas instituições, com mais eficiência e transparência no setor da educação infantil pública.
- 
-### Objetivos Específicos
-Para a viabilização e sucesso do **CEIControl**, foram definidos os seguintes passos:
- 
-- **Centralização de Dados:** Implementar módulos para o cadastro e gerenciamento de usuários, fornecedores, produtos e serviços em uma única interface.
-- **Comunicação Escolar:** Criar uma agenda digital e ferramentas de interação direta entre a coordenação do CEI e os pais ou responsáveis.
-- **Segurança e Controle:** Desenvolver um sistema de autenticação com diferentes perfis de acesso (admin, cliente e usuário), garantindo a integridade das operações CRUD.
-- **Tecnologias Modernas:** Construir o protótipo utilizando a stack PHP, MySQL, HTML e CSS, assegurando a viabilidade técnica e performance.
-- **Inclusão Digital:** Oferecer uma solução tecnológica que amplie a digitalização escolar sem custos adicionais para as instituições públicas.
----
-
-## 🌟 Funcionalidades Principais
-
-O sistema oferece autenticação multi-perfil (Admin, Professor e Responsável) e centraliza as ferramentas essenciais:
-
-* **Gestão de Cadastros (CRUD):** Gerenciamento completo (Cadastro, Consulta, Edição, Exclusão) de Fornecedores, Produtos e Serviços.
-* **Comunicação Integrada:** Chat em tempo real e envio de comunicados com fluxo de aprovação.
-* **Agenda Digital Inteligente:** Registro de eventos, datas importantes e reuniões, compartilhada entre coordenação e responsáveis.
-* **Gestão Pedagógica:** Módulos para **Registro de Ocorrências** e **Geração de Relatórios**.
-* **Acesso Controlado:** O sistema deve validar o perfil de usuário em cada requisição, impedindo acessos indevidos (RNF04).
-
-## 💻 Tecnologias Adotadas
-
-O CEIControl é construído com foco em linguagens de código aberto (Open Source) e segue um modelo de arquitetura Cliente-Servidor.
-
-| Categoria | Tecnologia | Uso |
-| :--- | :--- | :--- |
-| **Back-end** | PHP | Linguagem de programação principal. |
-| **Banco de Dados** | MySQL | Sistema Gerenciador de Banco de Dados Relacional (SGBDR). |
-| **Front-end** | HTML5, CSS3, JavaScript | Estrutura de interface e estilo, com foco em responsividade e usabilidade. |
-| **Arquitetura** | Cliente-Servidor, Cloud (Nuven) | O sistema é acessado via Navegador e hospedado em Serviço de Nuvem. |
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
+  <img src="https://img.shields.io/badge/version-1.0-blue" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/badge/PHP-Backend-blueviolet" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange" />
+</p>
 
 ---
 
-## 🛠️ Instalação e Configuração
+## 📌 Sobre o Projeto
 
-Para rodar o CEIControl localmente, você precisa de um ambiente de servidor web com suporte a PHP e MySQL (como XAMPP, WAMP ou MAMP).
+O **CEIControl** é uma plataforma web desenvolvida para **modernizar e simplificar a gestão de Centros de Educação Infantil (CEIs) públicos**.
 
-### 1. Clonar o Repositório
+A proposta é centralizar em um único sistema:
 
-No seu terminal, clone este projeto para o diretório `htdocs` do seu XAMPP (ou similar):
+- 👥 Gestão de usuários  
+- 📦 Controle de recursos  
+- 📅 Agenda digital  
+- 💬 Comunicação entre escola e responsáveis  
+
+> 💡 Projeto desenvolvido pela **JEMTech**, focada em soluções digitais para o setor público.
+
+---
+
+## 🎯 Objetivos
+
+### 🔹 Objetivo Geral
+Criar uma plataforma gratuita, eficiente e acessível para a gestão de CEIs, promovendo **organização, comunicação e transparência**.
+
+### 🔹 Objetivos Específicos
+
+- 📊 Centralizar dados administrativos  
+- 💬 Melhorar comunicação com responsáveis  
+- 🔐 Garantir segurança com controle de acesso  
+- ⚙️ Utilizar tecnologias modernas  
+- 🌍 Promover inclusão digital  
+
+---
+
+## 🌟 Funcionalidades
+
+- ✅ CRUD completo (Usuários, Produtos, Serviços)
+- 💬 Chat em tempo real
+- 📅 Agenda digital integrada
+- 📊 Relatórios e ocorrências
+- 🔐 Sistema de autenticação por perfil
+
+---
+
+## 🧰 Tecnologias
+
+<p align="center">
+
+| Tecnologia | Uso |
+|-----------|-----|
+| PHP | Back-end |
+| MySQL | Banco de dados |
+| HTML5 | Estrutura |
+| CSS3 | Estilo |
+| JavaScript | Interatividade |
+
+</p>
+
+---
+
+## 📷 Preview do Sistema
+
+<p align="center">
+  <img src="https://placehold.co/800x400/2E8B57/FFFFFF?text=Preview+do+Sistema" />
+</p>
+
+> 🔥 Dica: substitui isso por prints reais depois!
+
+---
+
+## 🛠️ Instalação
 
 ```bash
-git clone [https://github.com/EduardoMartins-tech/CEIControl-Alpha.git](https://github.com/EduardoMartins-tech/CEIControl-Alpha.git)
+git clone https://github.com/EduardoMartins-tech/CEIControl-Alpha.git
 cd CEIControl-Alpha
-
-
-2. Configuração do Ambiente e Acesso
-Crie o Banco de Dados: Acesse o phpMyAdmin (http://localhost/phpmyadmin/) e crie um novo banco de dados (Ex: ceicontrol_db).
-
-Importe as Estruturas: Utilize os scripts SQL fornecidos no projeto para criar as tabelas e popular os dados de teste.
-
-# Cria a estrutura das tabelas
-mysql -u [seu_usuario] -p ceicontrol_db < tabelas.sql
-# Adiciona dados de teste
-mysql -u [seu_usuario] -p ceicontrol_db < dados_de_teste.sql
-
-3. Ajuste a Conexão: Localize e edite o arquivo de conexão (provavelmente database.php) para informar as credenciais do seu banco de dados local:
-
-hostname: localhost
-
-username: (Ex: root para XAMPP)
-
-password: (Ex: vazio para XAMPP)
-
-database: ceicontrol_db
-
-4. Acesse o Sistema: Após iniciar o servidor Apache e o MySQL, o sistema estará acessível no seu navegador:
-
-http://localhost/CEIControl-Alpha/index.html
