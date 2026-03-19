@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="./assets/jemtech.png" width="160"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/ceicontrol.png" width="160"/>
-</p>
+<img src="./assets/jemtech.png" width="160"/>
+<img src="./assets/ceicontrol.png" width="160"/>
 
 # 🚀 CEIControl
 
