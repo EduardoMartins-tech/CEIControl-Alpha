@@ -35,6 +35,25 @@ A proposta é centralizar em um único sistema:
 
 ---
 
+## 👨‍💻 Desenvolvedores
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/EduardoMartins-tech">
+        <img src="https://github.com/EduardoMartins-tech.png" width="100px;" /><br>
+        <sub><b>Eduardo Ferreira Martins</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JVCod1ng">
+        <img src="https://github.com/JVCod1ng.png" width="100px;" /><br>
+        <sub><b>João Vitor</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🎯 Objetivos
 
 ### 🔹 Objetivo Geral
