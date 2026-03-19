@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assests/ceicontrol.png" height="120"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/assets/ceicontrol.png" height="120"/>
+  <img src="assests/jemtech.png" height="120"/>
 </p>
 
 <p align="center">
