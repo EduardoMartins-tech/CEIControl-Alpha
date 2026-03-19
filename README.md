@@ -78,11 +78,15 @@ Criar uma plataforma gratuita, eficiente e acessível para a gestão de CEIs, pr
 
 ## 📷 Preview do Sistema
 
-<p align="center">
-  <img src="https://placehold.co/800x400/2E8B57/FFFFFF?text=Preview+do+Sistema" />
-</p>
+O sistema CEIControl possui uma interface web intuitiva e responsiva, desenvolvida para facilitar o uso por diferentes perfis de usuários (administradores, professores e responsáveis).
 
-> 🔥 Dica: substitui isso por prints reais depois!
+- 📊 Painel administrativo  
+- 📅 Agenda digital  
+- 💬 Comunicação em tempo real  
+- 📋 CRUD completo  
+- 🔐 Controle de acesso  
+
+> 🚀 Em breve serão adicionadas imagens reais do sistema.
 
 ---
 
